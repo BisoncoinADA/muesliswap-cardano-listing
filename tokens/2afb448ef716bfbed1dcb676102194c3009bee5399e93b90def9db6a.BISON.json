@@ -1,0 +1,9 @@
+{
+    "policyId": "2afb448ef716bfbed1dcb676102194c3009bee5399e93b90def9db6a",
+    "name": "BISON",
+    "symbol": "BISON",
+    "website": "https://bisoncoin.io/",
+    "description": "A decentralized Bison meme coin on the Cardano network.Inspired by Master Charles's love for Bison.",
+    "totalSupply":1000000000000000
+    "amounts": [100000000,200000000,500000000,1000000000,5000000000,10000000000,50000000000,100000000000,200000000000,500000000000,1000000000000]
+}
